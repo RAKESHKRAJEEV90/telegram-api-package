@@ -1,0 +1,30 @@
+{
+  "name": "telegram-api-package",
+  "version": "1.0.0",
+  "description": "A Node.js wrapper for interact with telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RAKESHKRAJEEV90/telegram-api-package.git"
+  },
+  "keywords": [
+    "API",
+    "TELEGRAM",
+    "BOT",
+    "CHAT"
+  ],
+  "author": "RK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RAKESHKRAJEEV90/telegram-api-package/issues"
+  },
+  "homepage": "https://github.com/RAKESHKRAJEEV90/telegram-api-package#readme",
+  
+  "dependencies": {
+    "axios": "^1.7.2",
+    "form-data": "^4.0.0"
+  }
+}

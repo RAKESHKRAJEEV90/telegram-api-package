@@ -1,0 +1,6 @@
+# Ignore Node.js build artifacts
+node_modules/
+test/
+output/
+test.js
+Ayyappa_Swamy_HDZLHW.jpg
